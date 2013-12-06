@@ -66,7 +66,7 @@ These files are:
 - mysite/urls.py: The URL declarations for this Django project; a “table of contents” of your Django-powered site. You can read more about URLs in URL dispatcher.  
 - mysite/wsgi.py: An entry-point for WSGI-compatible web servers to serve your project. See How to deploy with WSGI for more details.  
 
-Let’s verify this worked. Change into the outer mysite directory, if you haven’t already, and run the command python manage.py runserver. You’ll see the following output on the command line:  
+Let’s verify this worked. Change into the outer mysite directory, if you haven’t already, and run the command ```python manage.py runserver```. You’ll see the following output on the command line:  
 <pre>
 Validating models...  
 
