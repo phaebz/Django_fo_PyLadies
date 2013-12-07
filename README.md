@@ -4,10 +4,9 @@ Django fo PyLadies
 Handling the required setup for the [Django Project Django tutorial](https://docs.djangoproject.com/en/dev/intro/tutorial01/).  
 
 
-
-WIP
+Django Setup
 =====
-This is "work in progress"!  
+This is covered in [this](django_setup_PyLadies.md) document.
 
 Bugs
 =====
