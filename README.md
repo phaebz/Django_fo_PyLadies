@@ -10,7 +10,7 @@ This is covered in [this](django_setup_PyLadies.md) document.
 
 Bugs
 =====
-Please open an issue.  
+If you think something could be improved around here, open an issue and we can start discussion!
 
 Contributing
 =====
